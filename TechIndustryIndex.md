@@ -1,3 +1,8 @@
+Tech Industry ESG Index Documentation
+
+This file provides a structured dataset representing hypothetical ESG (Environmental, Social, Governance) data for companies in the Technology industry. Each column represents a specific metric or score component, and all data is fictional, created to demonstrate ESG analysis within the tech sector. 
+
+The weighted scoring methodology aligns with frameworks from Bloomberg and S&P ESG indices, allowing for realistic scoring while maintaining a simplified approach. This dataset can be used to understand how tech companies might score on ESG criteria and how different metrics (Environmental, Social, Governance) contribute to the overall score.
 ### Hypothetical ESG Data for Technology Industry
 
 Here is a table with hypothetical ESG data for companies in the Technology industry:
